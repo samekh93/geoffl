@@ -5,7 +5,7 @@ date:   2017-03-01 20:44:00 -0800
 categories: jekyll blogging
 ---
 
-Matt Gemmell on blogging with Jekyll on the iPad:
+[Matt Gemmell on blogging with Jekyll on the iPad](http://mattgemmell.com/using-the-ipad-for-blogging-with-jekyll/):
 
 > Since it talks to Dropbox, I can just create new articles directly in my Dropbox where I keep my entire Jekyll site, and they’re ready to go when I next build and publish (more about that later).
 
